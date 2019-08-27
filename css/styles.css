@@ -1,0 +1,87 @@
+body{
+    margin: 0 auto;
+}
+
+.col{
+    background-color: black;
+    height: 2.5em;
+    border: blue 1px solid;
+}
+
+.logo{
+    height: 60px;
+    width: 100px;
+    position: relative;
+    left: 350px;
+    top: 10px;
+}
+
+.nav{
+    float: right;
+    position: relative;
+    right: 350px;
+}
+
+.list{
+    height: 30px;
+    width: 100px;
+    margin: 30px 20px 0px 0px;
+}
+
+.main{
+    height: 300px;
+    width: 800px;
+    position: relative;
+    top: 100px;
+    left: 250px;
+}
+
+.aside{
+    height: 20px;
+    width: 200px;
+    position: relative;
+    top: 420px;
+    right: 550px;
+}
+
+.info{
+    height: 150px;
+    width: 400px;
+    position: relative;
+    top: 400px;
+    right: 550px;
+    margin-bottom: 20px;
+}
+
+.one{
+    height: 150px;
+    width: 160px;
+    position: relative;
+    top: 230px;
+    right: 500px;
+    margin-bottom: 20px;
+}
+
+.two{
+    height: 150px;
+    width: 160px;
+    position: relative;
+    left: 1000px;
+    top: 60px;
+}
+
+.three{
+    height: 150px;
+    width: 160px;
+    position: relative;
+    left: 840px;
+    top: 230px;
+}
+
+.four{
+    height: 150px;
+    width: 160px;
+    position: relative;
+    top: 230px;
+    left: 480px;
+}
